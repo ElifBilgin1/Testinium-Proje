@@ -1,2 +1,3 @@
 # Testinium-Proje
-Testinium Gittigidiyor Web Otomasyonu
+
+gittigidiyor.com sitesi üzerinden istenilen test senaryolarının gerçekleştirildiği otomasyon projesi.
