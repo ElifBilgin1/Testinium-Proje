@@ -1,0 +1,43 @@
+2021-04-15 19:46:10 DEBUG BaseTest:23 - 
+2021-04-15 19:46:10 DEBUG BaseTest:24 - ****************************************************
+2021-04-15 19:46:10 DEBUG BaseTest:25 - Elif's test starting...
+2021-04-15 19:46:10 DEBUG BaseTest:26 - Current Time: Thu Apr 15 19:46:10 EET 2021
+2021-04-15 19:46:10 DEBUG BaseTest:27 - ****************************************************
+2021-04-15 19:46:10 DEBUG BaseTest:28 - 
+2021-04-15 19:46:19 DEBUG BasePage:26 - Title getted: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 19:46:19 DEBUG HomeControl:19 - Homepage controlled.
+2021-04-15 19:46:20 DEBUG BaseTest:40 - 
+2021-04-15 19:46:20 DEBUG BaseTest:41 - Test finished successfully
+2021-04-15 19:46:53 DEBUG BaseTest:23 - 
+2021-04-15 19:46:53 DEBUG BaseTest:24 - ****************************************************
+2021-04-15 19:46:53 DEBUG BaseTest:25 - Elif's test starting...
+2021-04-15 19:46:53 DEBUG BaseTest:26 - Current Time: Thu Apr 15 19:46:53 EET 2021
+2021-04-15 19:46:53 DEBUG BaseTest:27 - ****************************************************
+2021-04-15 19:46:53 DEBUG BaseTest:28 - 
+2021-04-15 19:47:08 DEBUG LoginFunction:34 - Login button clicked.
+2021-04-15 19:47:08 DEBUG LoginFunction:39 - Username set: elifbilginnn
+2021-04-15 19:47:08 DEBUG LoginFunction:44 - Password set: 1998053e
+2021-04-15 19:47:11 DEBUG LoginFunction:47 - Login successfully.
+2021-04-15 19:47:11 DEBUG BasePage:26 - Title getted: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-04-15 19:47:11 DEBUG LoginFunction:53 - Login controlled.
+2021-04-15 19:47:12 DEBUG BaseTest:40 - 
+2021-04-15 19:47:12 DEBUG BaseTest:41 - Test finished successfully
+2021-04-15 19:47:12 DEBUG BaseTest:42 - 
+2021-04-15 19:47:42 DEBUG BaseTest:23 - 
+2021-04-15 19:47:42 DEBUG BaseTest:24 - ****************************************************
+2021-04-15 19:47:42 DEBUG BaseTest:25 - Elif's test starting...
+2021-04-15 19:47:42 DEBUG BaseTest:26 - Current Time: Thu Apr 15 19:47:42 EET 2021
+2021-04-15 19:47:42 DEBUG BaseTest:27 - ****************************************************
+2021-04-15 19:47:42 DEBUG BaseTest:28 - 
+2021-04-15 19:47:58 DEBUG SearchFunction:41 - 'bilgisayar' sent to search field.
+2021-04-15 19:48:02 DEBUG SearchFunction:47 - Page 2 selected.
+2021-04-15 19:48:02 DEBUG BasePage:26 - Title getted: Bilgisayar - GittiGidiyor - 2/100
+2021-04-15 19:48:02 DEBUG SearchFunction:74 - Page 2 controlled.
+2021-04-15 19:48:07 DEBUG SearchFunction:92 - Random item selected: 
+2021-04-15 19:48:15 DEBUG SearchFunction:115 - Item added to chart.
+2021-04-15 19:48:18 DEBUG SearchFunction:121 - Item's current price: 2.997,02 TL
+2021-04-15 19:48:26 DEBUG SearchFunction:130 - Item's chart price: 2.997,02 TL
+2021-04-15 19:48:26 DEBUG SearchFunction:133 - Prices controlled.
+2021-04-15 19:48:27 DEBUG BaseTest:40 - 
+2021-04-15 19:48:27 DEBUG BaseTest:41 - Test finished successfully
+2021-04-15 19:48:27 DEBUG BaseTest:42 - 
